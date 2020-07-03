@@ -1,5 +1,5 @@
 body{
-height: 3000pt;
+height: 100%;
 width:100%
 margin: 0;
 padding: 0;
@@ -142,8 +142,8 @@ input[name="r"]{
 }
 
 .middlle{
-  position: absolute;
-  top:2775pt;
+  position: relative;
+  top:300pt;
   left: 50%;
   transform: translate(-50%,-50%);
 }
